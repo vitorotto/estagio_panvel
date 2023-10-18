@@ -18,7 +18,7 @@ def criptografar(texto, rotacoes): # Função para criptografar a String
 
     return texto_criptografado
 
-def descriptografar(texto_criptografado, rotacoes): # Função para criptografar a String
+def descriptografar(texto_criptografado, rotacoes): # Função para descriptografar a String
     alfabeto = 'abcdefghijklmnopqrstuvwxyz'
 
     texto_descriptografado = ""
