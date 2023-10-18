@@ -17,6 +17,3 @@ posicao_oli = 0
 
 vencedor = animais(posicao_bob, posicao_rex, posicao_oli)
 print("O vencedor é: %s" %vencedor)
-
-
-        
